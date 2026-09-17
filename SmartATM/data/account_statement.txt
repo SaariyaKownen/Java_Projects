@@ -1,0 +1,16 @@
+========================================
+          SMART ATM ACCOUNT STATEMENT
+========================================
+Account Number : 1001
+Account Holder : Sariya
+Current Balance: ₹37000.00
+----------------------------------------
+TRANSACTION HISTORY
+----------------------------------------
+16-09-2026 23:08:02 | DEPOSIT | Amount: ₹5000.00 | Balance: ₹33000.00
+16-09-2026 22:27:08 | WITHDRAW | Amount: ₹2000.00 | Balance: ₹28000.00
+16-09-2026 22:25:20 | DEPOSIT | Amount: ₹5000.00 | Balance: ₹30000.00
+16-09-2026 23:29:29 | DEPOSIT | Amount: ₹2000.00 | Balance: ₹35000.00
+16-09-2026 23:29:51 | WITHDRAW | Amount: ₹3000.00 | Balance: ₹32000.00
+16-09-2026 23:30:00 | DEPOSIT | Amount: ₹5000.00 | Balance: ₹37000.00
+========================================
